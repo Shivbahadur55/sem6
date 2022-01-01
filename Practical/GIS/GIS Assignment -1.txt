@@ -1,0 +1,11 @@
+-----------------GIS ASSIGNMENT 1 QUESTIONS-------------------
+1.Define GIS. Briefly explain any two capabilities of GIS.
+2.Write short note on GIS Applications.
+3.What is GI System and GI Science. Explain.
+4.How modelling helps in representing real world Explain with an example.
+5.Define geographic field. Explain its data type and value.
+6.Write a note on topology and various spatial relationships.
+7.Explain the temporal dimension using suitable example.
+8.Explain the following terms : i) Discrete Time and Continuous Time ii)Valid Time and transaction
+Time iii)Absolute and Relative Time
+9.Write about regular and irregular tessellations. (With diagram)
